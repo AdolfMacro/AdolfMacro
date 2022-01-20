@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about python , network , socket programming with python , c , linux and security .
 - 💼 I am not currently employed and I am looking for a job or a training job .
 - 📫 How to reach me: [Email : m4nikamran@gmail.com](mailto:m4nikamran@gmail.com) , [Telegram : @macropinna](https://www.t.me/macropinna)
-- ⚡ Fun fact: I'm 16 :)
+
 
      ![Gif](https://github.com/manikamran/manikamran/blob/main/computerPixArtGif.gif)
 
