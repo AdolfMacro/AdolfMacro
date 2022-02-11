@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with programmers , system admins , network admins and ...
 - 💬 Ask me about python , network , socket programming with python , c , linux and security .
 - 💼 I am not currently employed and I am looking for a job or a training job .
-- 📫 How to reach me: [Email : m4nikamran@gmail.com](mailto:m4nikamran@gmail.com) , [Telegram : @macropinna](https://www.t.me/macropinna)
+- 📫 How to reach me: [Email : m4nikamran@gmail.com](mailto:m4nikamran@gmail.com) , [Telegram : @manikamran](https://www.t.me/macropinna)
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/macropinna.h) 
+[![My website](https://img.shields.io/badge/%F0%9F%8C%90-Website-orange)](https://adolfmacro.github.io/mani/) 
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
