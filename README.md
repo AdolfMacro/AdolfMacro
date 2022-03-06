@@ -24,7 +24,7 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Gif](https://github.com/AdolfMacro/AdolfMacro/blob/AdolfMacro/computerPixArtGif.gif)
+![Gif](https://github.com/AdolfMacro/AdolfMacro/blob/main/computerPixArtGif.gif)
 ---
 ![](https://komarev.com/ghpvc/?username=AdolfMacro&label=Visitors+Count&color=brightgreen)
 
