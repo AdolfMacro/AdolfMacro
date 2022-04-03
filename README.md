@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on open source security projects .
 - 🤔 I’m looking for help with programmers , system admins , network admins and ...
 - 💬 Ask me about python , network , socket programming with python , c , linux and security .
-- 💼 I am not currently employed and I am looking for a job or a training job .
 - 📫 How to reach me: [Email : m4nikamran@gmail.com](mailto:m4nikamran@gmail.com) , [Telegram : @manikamran](https://www.t.me/macropinna)
 
 ## 🌐Socials
