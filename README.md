@@ -1,4 +1,4 @@
-<img align="right" width="80" height="80" src="https://github.com/AdolfMacro/AdolfMacro/blob/main/logo.png" alt="Resume application project app icon">
+<img align="right" width="80" height="80" src="https://github.com/AdolfMacro/AdolfMacro/blob/main/logo.png">
 
 
 ### Hi there 👋
