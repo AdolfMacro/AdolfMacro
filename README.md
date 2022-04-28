@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open source security projects .
 - 🤔 I’m looking for help with programmers , system admins , network admins and ...
 - 💬 Ask me about python , network , socket programming with python , c , linux and security .
-- 📫 How to reach me: [Email : m4nikamran@gmail.com](mailto:m4nikamran@gmail.com) , [Telegram : @manikamran](https://www.t.me/macropinna)
+- 📫 How to reach me: Email :[m4nikamran@gmail.com](mailto:m4nikamran@gmail.com) , Telegram : [@manikamran](https://www.t.me/macropinna)
 
 ## 🌐Socials
 [![My website](https://img.shields.io/badge/%F0%9F%8C%90-Website-black)](https://adolfmacro.github.io/mani/) 
