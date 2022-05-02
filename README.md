@@ -26,8 +26,13 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Gif](https://github.com/AdolfMacro/AdolfMacro/blob/main/computerPixArtGif.gif)
+
 ---
+
+![Gif](https://github.com/AdolfMacro/AdolfMacro/blob/main/computerPixArtGif.gif)
+
+---
+
 
 <a href="http://www.github.com/adolfmacro"><img src="https://activity-graph.herokuapp.com/graph?username=adolfmacro&&theme=chartreuse-dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
