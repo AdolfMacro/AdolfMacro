@@ -28,5 +28,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![Gif](https://github.com/AdolfMacro/AdolfMacro/blob/main/computerPixArtGif.gif)
 ---
-![](https://komarev.com/ghpvc/?username=AdolfMacro&label=Visitors+Count&color=brightgreen)
 
+<a href="http://www.github.com/adolfmacro"><img src="https://activity-graph.herokuapp.com/graph?username=adolfmacro&&theme=chartreuse-dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+---
+![](https://komarev.com/ghpvc/?username=AdolfMacro&label=Visitors+Count&color=brightgreen)
