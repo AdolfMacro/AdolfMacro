@@ -59,7 +59,6 @@
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=AdolfMacro&theme=radical&no-frame=false&no-bg=false&margin-w=4">
   </br>
-  <a href="http://www.github.com/adolfmacro"><img src="https://activity-graph.herokuapp.com/graph?username=adolfmacro&&theme=chartreuse-dark&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  </div>
 </details>
 
