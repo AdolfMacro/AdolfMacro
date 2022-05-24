@@ -11,7 +11,7 @@
   <img 
     width="700"
     height="400"
-    src="https://github.com/AdolfMacro/AdolfMacro/blob/main/computerPixArtGif.gif"
+    src="https://github.com/AdolfMacro/AdolfMacro/blob/main/intro.gif"
   >
 </p>
 
