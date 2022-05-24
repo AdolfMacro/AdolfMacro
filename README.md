@@ -8,12 +8,20 @@
 </p>
 </br>
 <p align="center">
+  Visitor count<br>
+  <img 
+    src="https://profile-counter.glitch.me/adolfmacro/count.svg"
+  >
+</p>
+<p align="center">
   <img 
     width="700"
     height="400"
     src="https://github.com/AdolfMacro/AdolfMacro/blob/main/intro.gif"
   >
 </p>
+
+
 
 
 <details>
@@ -61,5 +69,3 @@
   </br>
  </div>
 </details>
-
-![](https://komarev.com/ghpvc/?username=AdolfMacro&label=Visitors+Count&color=brightgreen)
