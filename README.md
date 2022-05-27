@@ -69,4 +69,5 @@
   </br>
  </div>
  <img src="https://github.com/AdolfMacro/AdolfMacro/blob/output/github-contribution-grid-snake.svg">
+ <img src="https://activity-graph.herokuapp.com/graph?username=adolfmacro&theme=dracula">
 </details>
