@@ -59,6 +59,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AdolfMacro&theme=radical&no-frame=false&no-bg=false&margin-w=4">
   </br>
  </div>
+ 
+ 
+ -----
+ 
+ 
  <img src="https://github.com/AdolfMacro/AdolfMacro/blob/output/github-contribution-grid-snake.svg">
  <img src="https://activity-graph.herokuapp.com/graph?username=adolfmacro&theme=dracula">
 </details>
