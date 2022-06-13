@@ -14,7 +14,7 @@
   >
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72F700&center=true&vCenter=true&width=1000&lines=Hi+%2C+I'm+Mani++%F0%9F%91%8B)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72F700&center=true&vCenter=true&width=1000&lines=Hi+%2C+I'm+Mani++%F0%9F%91%8B)
 
 <details>
   <summary><b>💫About Me</b></summary>
