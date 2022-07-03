@@ -1,3 +1,12 @@
+<br>
+<p align="center">
+  <img 
+    width="450"
+    height="200"
+    src="https://github.com/AdolfMacro/AdolfMacro/blob/main/KINGlogo.png?raw=true"
+  >
+</p>
+</br>
 <p align="center">
   Visitor count<br>
   <img 
