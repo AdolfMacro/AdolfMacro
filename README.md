@@ -1,12 +1,3 @@
-<br>
-<p align="center">
-  <img 
-    width="80"
-    height="80"
-    src="https://github.com/AdolfMacro/AdolfMacro/blob/main/logo.png?raw=true"
-  >
-</p>
-</br>
 <p align="center">
   Visitor count<br>
   <img 
