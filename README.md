@@ -1,8 +1,8 @@
 <br>
 <p align="center">
   <img 
-    width="450"
-    height="200"
+    width="400"
+    height="450"
     src="https://github.com/AdolfMacro/AdolfMacro/blob/main/hacker.png?raw=true"
   >
 </p>
