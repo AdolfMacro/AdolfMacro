@@ -8,9 +8,9 @@
   </p>
 <p align="center">
   <img 
-    width="400"
-    height="450"
-    src="https://github.com/AdolfMacro/AdolfMacro/blob/main/hacker.png?raw=true"
+    width="600"
+    height="400"
+    src="https://thumbs.gfycat.com/BogusAlienatedGoldeneye-size_restricted.gif"
   >
 </p>
 </br>
