@@ -32,7 +32,7 @@
     height="300"
     src="https://github.com/AdolfMacro/AdolfMacro/blob/main/hacking.gif?raw=true"
   >
-<img src=https://readme-typing-svg.herokuapp.com/?color=72F700&center=true&vCenter=true&width=1000&lines=Hello,%20I%20am%20Mani,%20interested%20in%20security%20and%20networking;%20Python,%20C,%20Bash%20and%20C%20++%20programmer.>
+<img src=https://readme-typing-svg.herokuapp.com/?color=72F700&center=true&vCenter=true&width=1000&lines=Hello,%20I%20am%20Mani,%20interested%20in%20security%20and%20networking;%20Python,%20,%20Bash%20and%20C%20++%20programmer.>
 </p>
  </div>
 </details>
