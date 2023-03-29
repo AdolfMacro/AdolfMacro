@@ -1,11 +1,4 @@
 <br>
-<p align="rigth">
-  <img
-    width="300"
-    higth="400"
-    src="https://raw.githubusercontent.com/AdolfMacro/AdolfMacro/main/opIRAN.png"
-   >
-  </p>
 <p align="center">
   <img 
     width="600"
