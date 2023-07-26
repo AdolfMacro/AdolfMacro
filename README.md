@@ -64,15 +64,3 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfMacro&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   </br>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AdolfMacro&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-  </br>
- </div>
- 
- 
- -----
- 
- 
- <img src="https://github.com/AdolfMacro/AdolfMacro/blob/output/github-contribution-grid-snake.svg">
- <img src="https://activity-graph.herokuapp.com/graph?username=adolfmacro&theme=dracula">
-</details>
