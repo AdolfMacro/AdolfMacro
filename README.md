@@ -7,6 +7,8 @@
 <img width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
+
+- 🔗 Check out my RESUME : https://github.com/AdolfMacro/resume/
 - 🔐 Passionate about **Cybersecurity**
 - 🌐 Interested in **Networking & Linux**
 - 🐍 Building automation tools with **Python**
